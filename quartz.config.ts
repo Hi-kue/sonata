@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Sonata 💫",
+    pageTitle: "Sonata",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -16,7 +16,7 @@ const config: QuartzConfig = {
     theme: {
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
+        header: "Fira Code",
         body: "Source Sans Pro",
         code: "IBM Plex Mono",
       },
@@ -37,8 +37,8 @@ const config: QuartzConfig = {
           gray: "#646464",
           darkgray: "#d4d4d4",
           dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
+          secondary: "#d79921",
+          tertiary: "#cc241d",
           highlight: "rgba(143, 159, 169, 0.15)",
         },
       },
