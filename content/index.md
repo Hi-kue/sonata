@@ -51,7 +51,7 @@ The site is organized into the following sections (referencing from my obsidian 
 
 Among some other sections that will have a variety of topics being covered. Most of the topics will be linked to official documentation, so I'm not going to be reinventing the wheel here, just providing a resource more manageable for myself and others. Adding journals would be missing the point of this site, but I hope to make a better site that includes personal blogs later.
 
-For a quick-start, visit the [JVM Based Languages](./jvm-based-languages/java/Java%20Essentials.md) document to get started with Java, or the [C# Essentials](./dotnet-based-languages/csharp/csharp-essentials.md) document to get started with C#. 
+For a quick-start, visit the [JVM Based Languages](./jvm-based-languages/java/Java%20Essentials.md) document to get started with Java, or the [C# Essentials](Csharp%20Essentials.md) document to get started with C#. 
 
 **NOTE**: If there are some errors in the documentation, please let me know about it since I am also learning and I make mistakes. Ill go back and correct them as soon as possible.
 

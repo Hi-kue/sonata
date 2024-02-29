@@ -9,8 +9,10 @@ uuid: Jf37ec631-9d01-49ff-b57d-0decf0919e98
 
 # Summary
 
----
+## TL;DR
 
+
+---
 ## Essentials ✨
 - [Learning Java - Dev.java](https://dev.java/learn/)
 - [Java Tutorials - Oracle](https://docs.oracle.com/javase/tutorial/)

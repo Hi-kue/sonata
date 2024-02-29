@@ -1,7 +1,11 @@
 ---
 title: C# Essentials
 description: Understanding the basics of C# and the .NET Framework, covering topics such as syntax, data types, and control flow.
-tags: [csharp, .net, essentials, learning-csharp]
+tags:
+  - csharp
+  - dotnet
+  - essentials
+  - learning-csharp
 uuid: CSf37ec631-9d01-49ff-b57d-0decf0919e98
 ---
 
@@ -57,7 +61,6 @@ More topics will be covered in another document that will also be linked here un
 ## Related Documents
 
 ---
-
 ## Extensions ✨
 - [C# Documentation](https://learn.microsoft.com/en-us/dotnet/csharp/)
 - [C# 12 and .NET 8 - Eight Edition](https://learning.oreilly.com/library/view/c-12-and/9781837635870/)
