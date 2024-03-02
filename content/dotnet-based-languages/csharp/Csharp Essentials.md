@@ -25,10 +25,11 @@ control flow, and most of the other basics are covered in another document but m
 8. [Attributes](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/attributes)
 9. [Nullable Types](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/nullable-types)
 10. [Anonymous Types](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/anonymous-types)
-11. [Tuples](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/tuples)
-12. [Pattern Matching](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/pattern-matching)
-13. [Ref and Out](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/ref-returns-and-ref-locals)
-14. [Indexers](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/indexers)
+11. [Tuples](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/value-tuples)
+12. [Pattern Matching](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/functional/pattern-matching)
+13. [Ref](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/ref)
+14. [Out](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/out)
+15. [Indexers](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/indexers/)
 
 More topics will be covered in another document that will also be linked here under [Related Documents](#related-documents).
 
