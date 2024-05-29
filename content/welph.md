@@ -1,7 +1,11 @@
 ---
 title: WeLPH Index
-description: A document curated to understad the basics of programming languages and the fundamentals that are common across all languages.
-tags: [weplh, essentials, learning-prog, what-every-language-has]
+description: A document curated to understand the basics of programming languages and the fundamentals that are common across all languages.
+tags:
+  - weplh
+  - essentials
+  - learning-prog
+  - what-every-language-probably-has
 uuid: 3f37ec631-9d01-49ff-b57d-0decf0919e98
 ---
 
