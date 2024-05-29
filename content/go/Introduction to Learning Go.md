@@ -11,14 +11,14 @@ uuid: 51d61f6f-bdb7-4bd6-a01f-d4ca0f7d10a1
 ---
 # Table of Contents
 
-```table-of-contents
-title: 
-style: nestedList # TOC style (nestedList|nestedOrderedList|inlineFirstLevel)
-minLevel: 0 # Include headings from the specified level
-maxLevel: 0 # Include headings up to the specified level
-includeLinks: true # Make headings clickable
-debugInConsole: false # Print debug info in Obsidian console
-```
+- [Table of Contents](#table-of-contents)
+- [Abstract](#abstract)
+    - [What is Go?](#what-is-go)
+  - [Definitions](#definitions)
+  - [TL;DR](#tldr)
+  - [Extensions ✨](#extensions-)
+  - [Books to Consider Reading 📚](#books-to-consider-reading-)
+
 # Abstract
 
 ### What is Go?

@@ -11,14 +11,17 @@ uuid: 4110e827-f661-419c-84a5-09065209ccc9
 
 # Table of Contents
 
-```table-of-contents
-```
+- [Table of Contents](#table-of-contents)
+- [Abstract](#abstract)
+  - [Questions](#questions)
+  - [Conventions Guide](#conventions-guide)
+  - [Using Templates](#using-templates)
+  - [Extensions ✨](#extensions-)
+
 # Abstract
 
 
 ## Questions
-
-How do 
 
 ## Conventions Guide
 
