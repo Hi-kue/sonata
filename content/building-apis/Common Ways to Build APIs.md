@@ -64,6 +64,19 @@ The most common ways to Build APIs comes from the following article: https://blo
 5. *MQTT APIs*
 6. *Serverless APIs*
 
+**RESTful APIs**: A RESTful API (Representational State Transfer Application Programming Interface) is like a set of rules that allow different programs to communicate to each other over the internet. RESTful APIs use [HTTP Request Methods](https://blog.postman.com/what-are-http-methods/) like GET, POST, PUT, DELETE. APIs built using a RESTful approach are very popular, mostly due to their flexible, lightweight, and organized nature.
+
+**GRAPHQL APIs**: GraphQL APIs are APIs that are considered to be more efficient and robust than other APIs as they use a single endpoint to send complex queries and mutations (commands to change data) to the server. Rather than having multiple endpoints that request and receive data, consider it like a replacement layer for your API where GraphQL does all of the heavy lifting (request, receive).
+
+**gRPC, tRPC APIs**: 
+
+**Web Socket APIs**: 
+
+**MQTT APIs**: An MQTT (Message Queuing Telemetry Transport) API is a lightweight message protocol designed for small sensors and mobile devices. It's often useful in IoT projects because it has a low overhead, coupled with reliable message delivery, and supports the publish-subscribe pattern with its variants. Consider using this API technique for IoT and with network oriented software.
+
+**Serverless APIs**: A serverless API is an API that is built using a cloud service provider like AWS Lambda or Google Cloud Functions. Instead of 
+you--- the API developer managing your own servers, a cloud provider will handle all your infrastructure; leaving you to do what matters most, code. Scaling and maintenance is the job of the provider you are using, but this will lead to additional costs which can get pricey quick. I don't see many developers developing with serverless in mind, probably due to the fact that there are companies behind them that will take your life savings without hesitation. 
+
 
 ---
 ## Extensions ✨
