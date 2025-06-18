@@ -3,7 +3,7 @@ title: <% tp.system.prompt("What is the Title of this Note?") %>
 date: <% tp.file.creation_date("dddd Do MMMM YYYY HH:mm:ss") %>
 modified_date: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 summary: <% tp.system.prompt("Provide a Summary of the Note (Optional)") %>
-id: <% tp.system.prompt("What is the UUID of Note?") %>
+uuid: <% tp.system.prompt("What is the UUID of Note?") %>
 tags:
   - Dev-Weekends
   - Fellowship
