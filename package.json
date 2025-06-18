@@ -2,7 +2,7 @@
   "name": "@hap-archive/hap-dwf-docs",
   "description": "Official Digital Garden for Hap Archive and all Fellowships of the Archive.",
   "private": true,
-  "version": "4.5.1",
+  "version": "1.0.0",
   "type": "module",
   "author": {
     "name": "Muhammad Bilal Khan",
