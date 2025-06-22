@@ -4,15 +4,15 @@ import * as Plugin from "./quartz/plugins"
 // Docs: https://quartz.jzhao.xyz/configuration
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Hap Archive Docs",
-    pageTitleSuffix: " | HAPA",
+    pageTitle: "Sonata",
+    pageTitleSuffix: " | SONATA",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "https://hap-archive.github.io/hap-archive-docs/",
+    baseUrl: "https://github.com/Hi-kue/sonata",
     ignorePatterns: ["private", "templates", ".obsidian", "tmpl", "priv"],
     defaultDateType: "modified",
     theme: {
@@ -20,7 +20,7 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        body: "Inter",
         code: "IBM Plex Mono",
       },
       colors: {

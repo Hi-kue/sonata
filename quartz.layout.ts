@@ -8,7 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/HAP-Archive/hap-archive-docs.git",
+      GitHub: "",
     },
   }),
 }
@@ -65,7 +65,6 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
   ],
   right: [],
 }

@@ -1,6 +1,6 @@
 {
-  "name": "@hap-archive/hap-dwf-docs",
-  "description": "Official Digital Garden for Hap Archive and all Fellowships of the Archive.",
+  "name": "@hi-kue/sonata",
+  "description": "Hi-kue's Sonata - a digital garden for everything I learn, build, and create.",
   "private": true,
   "version": "1.0.0",
   "type": "module",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hap-archive/hap-dwf-docs.git"
+    "url": "https://github.com/Hi-kue/sonata.git"
   },
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
@@ -26,11 +26,10 @@
     "node": ">=22"
   },
   "keywords": [
-    "dev-weekends",
-    "dev-weekends-fellowship",
     "digital-garden",
     "markdown",
-    "hap-archive"
+    "sonata",
+    "sonare"
   ],
   "bin": {
     "quartz": "./quartz/bootstrap-cli.mjs"
