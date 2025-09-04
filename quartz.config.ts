@@ -13,7 +13,14 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "https://github.com/Hi-kue/sonata",
-    ignorePatterns: ["private", "templates", ".obsidian", "tmpl", "priv"],
+    ignorePatterns: [
+      "**/private",
+      "**/hidden",
+      "**/draft",
+      "**/notes",
+      ".obsidian", 
+      "tmpl",
+    ],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
