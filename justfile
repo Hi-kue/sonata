@@ -4,6 +4,7 @@ alias c := clean
 alias i := install
 alias u := upgrade
 alias cm := commit
+alias vp := validate_plugins
 
 SCRIPT_DIR := "scripts"
 
@@ -14,7 +15,8 @@ default:
 # NOTE: Clean up node_modules, lock-files, and other build artifacts.
 [group('clean')]
 [confirm('Are you sure you want to clean all build artifacts? This action cannot be undone.')]
-clean 
+clean *args:
+    @bash {{SCRIPT_DIR}}/clean.sh "{{args}}"
 
 # NOTE: Install all dependencies for sonata.
 [group('setup')]
@@ -44,3 +46,9 @@ upgrade:
 commit msg *flags:
     git add .
     git commit "{{flags}}" -m "{{msg}}"
+
+
+# NOTE: Validate that all Obsidian plugins from plugins.json are installed.
+[group('dev')]
+validate_plugins:
+    @bash - {{SCRIPT_DIR}}/install_obsp.sh
